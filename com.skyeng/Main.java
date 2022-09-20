@@ -85,6 +85,6 @@ public class Main {
         amountWorker = amountWorker + 94;
         var actualWorkHours = amountWorker * 8;
         System.out.println("Количество работочасов при увеличении штата " + actualWorkHours + " часов");
-        System.out.println(" ");
+        System.out.println("Complete HomeWork_2");
     }
 }
